@@ -1,5 +1,6 @@
 {
-  "repository": "private",
+  "repository": "plinth",
+  "version": "0.1.1",
   "author": "Jimba Tamang",
   "license": "private",
   "devDependencies": {
