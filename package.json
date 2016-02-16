@@ -1,22 +1,18 @@
 {
-  "repository": "private",
-  "author": "Jimba Tamang",
-  "license": "private",
+  "repository": "template",
+  "author": "Ben Williams",
+  "license": "MIT",
   "devDependencies": {
-    "gulp": "~3.8.1",
-    "gulp-autoprefixer": "0.0.7",
-    "gulp-cache": "~0.2.0",
-    "gulp-combine-media-queries": "^0.2.0",
-    "gulp-concat": "~2.2.0",
-    "gulp-filter": "^2.0.1",
-    "gulp-install": "^0.2.0",
-    "gulp-jasmine": "^2.0.0",
-    "gulp-jshint": "~1.6.3",
-    "gulp-load-plugins": "~0.5.2",
-    "gulp-notify": "~1.4.0",
-    "gulp-rename": "~1.2.0",
-    "gulp-ruby-sass": "~0.5.0",
-    "gulp-scss-lint": "^0.1.6",
-    "gulp-uglify": "~0.3.1"
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.1",
+    "gulp-jshint": "^2.0.0",
+    "gulp-rimraf": "^0.2.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-uglify": "^1.5.2",
+    "jshint": "^2.9.1"
   }
 }
