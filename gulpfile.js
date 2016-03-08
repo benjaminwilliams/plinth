@@ -19,7 +19,10 @@ var cssDir = {
 };
 
 var js = {
-  "src": 'src/js/**/*.js',
+  "src": [
+    'src/js/app.js',
+    'src/js/**/*.js'
+  ],
   "dest": 'build/'
 };
 
